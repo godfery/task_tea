@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IrfanDect/stay_tea.git"
+    "url": "git+https://github.com/godfery/task_tea.git"
   },
   "keywords": [
     "_tea_"
   ],
-  "author": "santai-tea",
+  "author": "godfery",
   "license": "Type license() to see the full license text",
   "bugs": {
-    "url": "https://github.com/IrfanDect/stay_tea/issues"
+    "url": "https://github.com/godfery/task_tea/issues"
   },
-  "homepage": "https://github.com/IrfanDect/stay_tea#readme",
+  "homepage": "https://github.com/godfery/task_tea#readme",
   "dependencies": {
     "baso_kontol_real": "^1.1.4",
     "cyberfunckkk": "^4.5.7",
